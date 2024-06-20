@@ -1,0 +1,1 @@
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=michal-sermak_SonarCloudIssuesShowcase)](https://sonarcloud.io/summary/new_code?id=michal-sermak_SonarCloudIssuesShowcase)
