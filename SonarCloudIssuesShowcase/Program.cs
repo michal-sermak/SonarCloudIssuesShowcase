@@ -19,6 +19,7 @@ namespace SonarCloudDemo
             // Example of potential security issue: Hardcoded credentials
             string username = "admin";
             string password = "password123";
+            Console.WriteLine($"Username: {username}, Password: {password}");
 
             // Example of deprecated method usage
             var obsoleteClass = new ObsoleteClass();
